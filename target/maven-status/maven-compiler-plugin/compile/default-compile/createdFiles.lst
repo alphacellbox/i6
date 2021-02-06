@@ -1,0 +1,4 @@
+com\microsoft\azure\samples\dao\ItemManagement.class
+com\microsoft\azure\samples\dao\TodoItemManagementInMemory.class
+com\microsoft\azure\samples\model\TodoItem.class
+com\microsoft\azure\samples\controller\TodoListController.class
